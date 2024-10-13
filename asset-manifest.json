@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Arcade-Academy-Build/static/css/main.043ea782.css",
-    "main.js": "/Arcade-Academy-Build/static/js/main.a731faee.js",
+    "main.js": "/Arcade-Academy-Build/static/js/main.d2afa2a8.js",
     "static/media/download_3.png": "/Arcade-Academy-Build/static/media/download_3.73c13fe85f98ee78798a.png",
     "static/media/what_pic_2.png": "/Arcade-Academy-Build/static/media/what_pic_2.c6456cd0852d7ee6be5d.png",
     "static/media/what_pic_1.png": "/Arcade-Academy-Build/static/media/what_pic_1.e7cc804078d07d6857de.png",
@@ -21,10 +21,10 @@
     "static/media/google_icon.svg": "/Arcade-Academy-Build/static/media/google_icon.9a7800d06783d80a1c12249a8ca58e9d.svg",
     "index.html": "/Arcade-Academy-Build/index.html",
     "main.043ea782.css.map": "/Arcade-Academy-Build/static/css/main.043ea782.css.map",
-    "main.a731faee.js.map": "/Arcade-Academy-Build/static/js/main.a731faee.js.map"
+    "main.d2afa2a8.js.map": "/Arcade-Academy-Build/static/js/main.d2afa2a8.js.map"
   },
   "entrypoints": [
     "static/css/main.043ea782.css",
-    "static/js/main.a731faee.js"
+    "static/js/main.d2afa2a8.js"
   ]
 }
