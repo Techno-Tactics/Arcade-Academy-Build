@@ -1,18 +1,21 @@
 {
   "files": {
     "main.css": "/Arcade-Academy-Build/static/css/main.043ea782.css",
-    "main.js": "/Arcade-Academy-Build/static/js/main.d2afa2a8.js",
-    "static/media/download_3.png": "/Arcade-Academy-Build/static/media/download_3.73c13fe85f98ee78798a.png",
+    "main.js": "/Arcade-Academy-Build/static/js/main.fb243f7b.js",
     "static/media/what_pic_2.png": "/Arcade-Academy-Build/static/media/what_pic_2.c6456cd0852d7ee6be5d.png",
     "static/media/what_pic_1.png": "/Arcade-Academy-Build/static/media/what_pic_1.e7cc804078d07d6857de.png",
     "static/media/header_logo.png": "/Arcade-Academy-Build/static/media/header_logo.af726a8f311cdd64545b.png",
     "static/media/contact_bg.png": "/Arcade-Academy-Build/static/media/contact_bg.8517af034cc59d6a85bb.png",
     "static/media/what_pic_4.png": "/Arcade-Academy-Build/static/media/what_pic_4.5000029015452c0bf3e9.png",
     "static/media/what_pic_3.png": "/Arcade-Academy-Build/static/media/what_pic_3.2fc5cceb9456755b6ec8.png",
-    "static/media/download_1.png": "/Arcade-Academy-Build/static/media/download_1.e140efef7aaedc89bbc0.png",
-    "static/media/download_2.png": "/Arcade-Academy-Build/static/media/download_2.ed704b3f66f67d3e87bf.png",
     "static/media/dummy_img.jpg": "/Arcade-Academy-Build/static/media/dummy_img.0569d1ea6a67ec3c212e.jpg",
+    "static/media/download_3.webp": "/Arcade-Academy-Build/static/media/download_3.790bad19b97b74c45a0e.webp",
+    "static/media/download_1.webp": "/Arcade-Academy-Build/static/media/download_1.a84eaab6a67148e9dd23.webp",
     "static/media/sectionBG.png": "/Arcade-Academy-Build/static/media/sectionBG.fb9e152f7c58b100bcc8.png",
+    "static/media/download_2.webp": "/Arcade-Academy-Build/static/media/download_2.36d4af7ea6aa66a31861.webp",
+    "static/media/game_3.webp": "/Arcade-Academy-Build/static/media/game_3.d2caad2a8146407a47d0.webp",
+    "static/media/game_2.webp": "/Arcade-Academy-Build/static/media/game_2.cb19fe42549d1c6a9616.webp",
+    "static/media/game_1.webp": "/Arcade-Academy-Build/static/media/game_1.5cf0c52a8c93163af665.webp",
     "static/media/accessibility.png": "/Arcade-Academy-Build/static/media/accessibility.1eb46a6fd303ed2ed2a2.png",
     "static/media/friendly.png": "/Arcade-Academy-Build/static/media/friendly.c1559bd306a1787dfc38.png",
     "static/media/arcade_academy_logo.png": "/Arcade-Academy-Build/static/media/arcade_academy_logo.5ee2fb035a2720f0a3dd.png",
@@ -21,10 +24,10 @@
     "static/media/google_icon.svg": "/Arcade-Academy-Build/static/media/google_icon.9a7800d06783d80a1c12249a8ca58e9d.svg",
     "index.html": "/Arcade-Academy-Build/index.html",
     "main.043ea782.css.map": "/Arcade-Academy-Build/static/css/main.043ea782.css.map",
-    "main.d2afa2a8.js.map": "/Arcade-Academy-Build/static/js/main.d2afa2a8.js.map"
+    "main.fb243f7b.js.map": "/Arcade-Academy-Build/static/js/main.fb243f7b.js.map"
   },
   "entrypoints": [
     "static/css/main.043ea782.css",
-    "static/js/main.d2afa2a8.js"
+    "static/js/main.fb243f7b.js"
   ]
 }
