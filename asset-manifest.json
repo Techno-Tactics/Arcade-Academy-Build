@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Arcade-Academy-Build/static/css/main.043ea782.css",
-    "main.js": "/Arcade-Academy-Build/static/js/main.56acf9ff.js",
+    "main.css": "/Arcade-Academy-Build/static/css/main.365965c7.css",
+    "main.js": "/Arcade-Academy-Build/static/js/main.a221ebc6.js",
     "static/media/what_pic_2.png": "/Arcade-Academy-Build/static/media/what_pic_2.c6456cd0852d7ee6be5d.png",
     "static/media/what_pic_1.png": "/Arcade-Academy-Build/static/media/what_pic_1.e7cc804078d07d6857de.png",
     "static/media/header_logo.png": "/Arcade-Academy-Build/static/media/header_logo.af726a8f311cdd64545b.png",
@@ -39,11 +39,11 @@
     "static/media/google_play.svg": "/Arcade-Academy-Build/static/media/google_play.9287c84d84bce99e280cd7189711e163.svg",
     "static/media/google_icon.svg": "/Arcade-Academy-Build/static/media/google_icon.9a7800d06783d80a1c12249a8ca58e9d.svg",
     "index.html": "/Arcade-Academy-Build/index.html",
-    "main.043ea782.css.map": "/Arcade-Academy-Build/static/css/main.043ea782.css.map",
-    "main.56acf9ff.js.map": "/Arcade-Academy-Build/static/js/main.56acf9ff.js.map"
+    "main.365965c7.css.map": "/Arcade-Academy-Build/static/css/main.365965c7.css.map",
+    "main.a221ebc6.js.map": "/Arcade-Academy-Build/static/js/main.a221ebc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.043ea782.css",
-    "static/js/main.56acf9ff.js"
+    "static/css/main.365965c7.css",
+    "static/js/main.a221ebc6.js"
   ]
 }
