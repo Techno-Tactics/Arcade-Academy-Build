@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.365965c7.css",
-    "main.js": "/static/js/main.815b1258.js",
+    "main.js": "/static/js/main.ec19dca7.js",
     "static/media/what_pic_2.png": "/static/media/what_pic_2.c6456cd0852d7ee6be5d.png",
     "static/media/what_pic_1.png": "/static/media/what_pic_1.e7cc804078d07d6857de.png",
     "static/media/header_logo.png": "/static/media/header_logo.af726a8f311cdd64545b.png",
@@ -10,7 +10,6 @@
     "static/media/what_pic_3.png": "/static/media/what_pic_3.2fc5cceb9456755b6ec8.png",
     "static/media/header_logo_lg.png": "/static/media/header_logo_lg.eef28584e3dae99503b2.png",
     "static/media/game_4.webp": "/static/media/game_4.8e22e88e6817dea294fb.webp",
-    "static/media/dummy_img.jpg": "/static/media/dummy_img.0569d1ea6a67ec3c212e.jpg",
     "static/media/blog_header_bg.webp": "/static/media/blog_header_bg.3af439640c01c75358ac.webp",
     "static/media/download_3.webp": "/static/media/download_3.790bad19b97b74c45a0e.webp",
     "static/media/game_11.webp": "/static/media/game_11.4ee383dc552e0bf24590.webp",
@@ -37,14 +36,14 @@
     "static/media/friendly.png": "/static/media/friendly.c1559bd306a1787dfc38.png",
     "static/media/arcade_academy_logo.png": "/static/media/arcade_academy_logo.5ee2fb035a2720f0a3dd.png",
     "static/media/interactive.png": "/static/media/interactive.5cc7f8e0b04089d1f20a.png",
-    "static/media/google_play.svg": "/static/media/google_play.58baca5904b0adfda0d391245f771706.svg",
+    "static/media/google_play.svg": "/static/media/google_play.b5b3e055715452845f5244739e135b27.svg",
     "static/media/google_icon.svg": "/static/media/google_icon.9a7800d06783d80a1c12249a8ca58e9d.svg",
     "index.html": "/index.html",
     "main.365965c7.css.map": "/static/css/main.365965c7.css.map",
-    "main.815b1258.js.map": "/static/js/main.815b1258.js.map"
+    "main.ec19dca7.js.map": "/static/js/main.ec19dca7.js.map"
   },
   "entrypoints": [
     "static/css/main.365965c7.css",
-    "static/js/main.815b1258.js"
+    "static/js/main.ec19dca7.js"
   ]
 }
